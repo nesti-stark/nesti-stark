@@ -27,8 +27,11 @@ I thrive in collaborative environments and bring an entrepreneurial mindset to e
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-#3BABC3?logo=flask&logoColor=white&#41)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+
+<!--
+![Flask](https://img.shields.io/badge/Flask-#3BABC3?logo=flask&logoColor=white&#41)
+-->
 
 **Databases & Search**
 
@@ -57,6 +60,7 @@ I am currently focused on developing my own **SaaS (Software as a Service)** pro
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -65,6 +69,7 @@ I am currently focused on developing my own **SaaS (Software as a Service)** pro
 </div>
 
 <br/>
+-->
 
 📫 **Contact me:** [nesti.s.dev@icloud.com](mailto:nesti.s.dev@icloud.com)  
 🌎 Native Spanish 🇪🇸 | Fluent English 🇬🇧
