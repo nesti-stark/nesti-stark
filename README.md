@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align: center">
   <h1>Hi there, I'm Nesti 👋</h1>
   <h3>Software Engineer | Full Stack Developer</h3>
 
@@ -54,7 +54,7 @@
 
 ---
 
-<div align="center">
+<div style="text-align: center">
   <h3>💬 Let's Connect</h3>
 
   <p>
