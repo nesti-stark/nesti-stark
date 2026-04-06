@@ -64,13 +64,13 @@
 ---
 
 <div align="center">
-  <h3>💬 Let's Connect</h3>
+  <h3>📬 Contact</h3>
 
   <p>
-    If you want to talk about products, backend architecture, or new opportunities, feel free to reach out.
+    Backend, systems, or interesting problems.
   </p>
 
   <a href="mailto:nesti.s.dev@icloud.com">
-    <img src="https://img.shields.io/badge/nesti.s.dev%40icloud.com-EA4335?logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?&logoColor=white" alt="Email"/>
   </a>
 </div>
